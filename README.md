@@ -1,3 +1,4 @@
 # hello-world
+Hi Humans!
 
-yoyo
+Pei Shan here, I like Node.js and Coffeescript
